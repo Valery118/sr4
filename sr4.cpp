@@ -25,6 +25,6 @@ int main()
     cout << "b = " << b << endl;
     cout << "y = " << y << endl;
 
-    return 0;
+    return 0
 }
 
